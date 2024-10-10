@@ -31,8 +31,8 @@ linters-settings:
                 allow:
                     - $gostd
                     - github.com/ricochhet/simplecrypto
-                    - github.com/ricochhet/readwrite
                     - github.com/ricochhet/murmurhash3
+                    - github.com/ricochhet/readwrite
 issues:
     exclude-dirs:
         - thirdparty/
@@ -81,7 +81,7 @@ linters:
         - gofumpt
         - goheader
         - goimports
-        # - gomoddirectives // ignore
+        - gomoddirectives
         - gomodguard
         - goprintffuncname
         - gosec
