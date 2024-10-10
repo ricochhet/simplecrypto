@@ -1,4 +1,4 @@
-github.com/ricochhet/murmurhash3 v0.0.0-20241010174834-d38634c92bee h1:0fegj+zMWa+EEgrWtatHGHdLdN5E0O0xR/2Vvll5/mc=
-github.com/ricochhet/murmurhash3 v0.0.0-20241010174834-d38634c92bee/go.mod h1:FkbO+hpAsvvCgZv7VtT1YZ0qZOWKfL96zFfk8bkyJ9Y=
+github.com/ricochhet/murmurhash3 v0.0.0-20241010175748-b76fa59b74df h1:FbDMOCQk6Z2FQJXHD7AOkTO2TWGnuGIgKfLXaZmFDIc=
+github.com/ricochhet/murmurhash3 v0.0.0-20241010175748-b76fa59b74df/go.mod h1:FkbO+hpAsvvCgZv7VtT1YZ0qZOWKfL96zFfk8bkyJ9Y=
 github.com/ricochhet/readwrite v0.0.0-20241010172637-533d3cb8456c h1:fu0NsJBNDB+xERq905OslWYB5Qp9sPAtTpxysZJLw30=
 github.com/ricochhet/readwrite v0.0.0-20241010172637-533d3cb8456c/go.mod h1:W6dkZ/KL3RpwAofqfkM4LmjhtsO2LgdP4sybqeUOppg=
